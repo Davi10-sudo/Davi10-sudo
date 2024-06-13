@@ -1,4 +1,4 @@
-## Hi there 👋
+## Boas vindas
 
 <!--
 **Davi10-sudo/Davi10-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
